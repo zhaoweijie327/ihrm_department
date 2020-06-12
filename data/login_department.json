@@ -1,7 +1,19 @@
 {
-    "login_api" :{
+    "login_api":{
         "mobile":"13800000002",
         "password":"123456",
         "message":"操作成功！"
+    },
+    "dep_add":{
+        "name":"寒痹部",
+        "code":"DEPT-HANBI",
+        "manager":"傻鸟",
+        "introduce":"傻鸟制造部",
+        "message":"操作成功！"
+    },
+    "dep_updata":{
+        "name":"QC部",
+        "message":"操作成功！"
     }
+
 }
